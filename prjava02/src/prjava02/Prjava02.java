@@ -4,7 +4,7 @@ import java.net.*;
 public class Prjava02 {
 	public static void main(String[] args) {
         System.out.println("versió 0.1 del projecte prjava02"); 
-        try {
+        try { 
             InetAddress adreça = InetAddress.getLocalHost();
             String hostname = adreça.getHostName();
             System.out.println("hostname="+hostname);
