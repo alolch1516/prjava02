@@ -3,7 +3,6 @@ import java.io.*;
 import java.net.*;
 public class Prjava02 {
 	public static void main(String[] args) {
-		System.out.println("Afegint més codi a la branca00 del projecte prjava02");
 		System.out.println("Conflicte típic: Codi diferent a la mateixa línia");
         try {
             InetAddress adreça = InetAddress.getLocalHost();
