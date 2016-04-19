@@ -4,6 +4,7 @@ import java.net.*;
 public class Prjava02 {
 	public static void main(String[] args) {
 		System.out.println("Conflicte típic: Codi diferent a la mateixa línia");
+		System.out.println("Conflicte típic: Codi diferent a la mateixa línia");
         try {
             InetAddress adreça = InetAddress.getLocalHost();
             String hostname = adreça.getHostName();
