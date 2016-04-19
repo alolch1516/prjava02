@@ -1,2 +1,2 @@
 Projecte Prjava02
-Tercera versió de README
+Tercera versió de README 2
